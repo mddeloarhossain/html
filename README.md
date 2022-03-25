@@ -1,2 +1,2 @@
 # html
-https://mddeloarhossain.github.io/html/
+https://mddeloarhossain.github.io/hw_01/
